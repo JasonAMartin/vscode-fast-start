@@ -16,6 +16,7 @@ Languages I generally code with when using VSC:
 - Ruby
 - LUA
 - Elixir
+- C# / Unity3D (game development)
 
 ### Some cool things to do with this pack:
 
