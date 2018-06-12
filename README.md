@@ -4,9 +4,13 @@
 
 This extension pack contains a lot of great extensions that I use often.
 
-Languages I code with:
+I love **[Visual Studio Code](https://code.visualstudio.com/)** and am always telling people about it.
 
-* JavaScript + framework roulette
+The pain point for them seemed to be installing extensions (knowing what to install, setting up, etc). I wanted a way to share my own dev enviornment to help them get going instantly to remove the friction.
+
+Languages I generally code with when using VSC:
+
+* JavaScript + framework roulette (and Node/etc)
 * PHP
 * Python
 * Ruby
