@@ -4,6 +4,11 @@
     "description": "A collection of extensions to setup a great VSC environment and get coding.",
     "version": "0.0.1",
     "publisher": "frozenrelic",
+    "galleryBanner": {
+        "color": "#333F48",
+        "theme": "dark"
+    },
+    "icon": "images/frozenrelic.png",
     "author": {
         "name" : "Jason A. Martin",
         "url" : "http://www.github.com/jasonamartin"
