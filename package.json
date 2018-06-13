@@ -1,8 +1,8 @@
 {
     "name": "fast-start",
     "displayName": "Fast Start",
-    "description": "A collection of extensions to setup a great VSC environment and get coding.",
-    "version": "0.0.2",
+    "description": "A collection of extensions to setup a great VSC environment right way and get coding.",
+    "version": "0.0.3",
     "publisher": "frozenrelic",
     "galleryBanner": {
         "color": "#333F48",
@@ -17,7 +17,9 @@
         "vsc",
         "visual studio code",
         "code extensions",
-        "visual studio code extension pack"
+        "visual studio code extension pack",
+        "JavaScript",
+        "IDE"
     ],
     "repository": {
         "type": "git",
@@ -48,7 +50,7 @@
         "alefragnani.project-manager",
         "alexdima.copy-relative-path",
         "amlovey.shaderlabvscodefree",
-        "anseki.vscode-color",
+        "arcticicestudio.nord-visual-studio-code",
         "burkeholland.simple-react-snippets",
         "capaj.vscode-exports-autocomplete",
         "capaj.vscode-standardjs-snippets",
@@ -63,7 +65,6 @@
         "eppz.eppz-code",
         "eg2.tslint",
         "eg2.vscode-npm-script",
-        "emmanuelbeziat.vscode-great-icons",
         "esbenp.prettier-vscode",
         "felipecaputo.git-project-manager",
         "felixfbecker.php-intellisense",
@@ -75,13 +76,11 @@
         "joelday.docthis",
         "johnpapa.angular-essentials",
         "johnpapa.Angular2",
-        "johnpapa.winteriscoming",
         "jorgeserrano.vscode-csharp-snippets",
         "k--kato.docomment",
         "keyring.Lua",
         "kisstkondoros.vscode-codemetrics",
         "kleber-swf.unity-code-snippets",
-        "leizongmin.node-module-intellisense",
         "mjmcloug.vscode-elixir",
         "ms-python.python",
         "ms-vscode.Go",
@@ -94,7 +93,6 @@
         "patrys.vscode-code-outline",
         "PeterJausovec.vscode-docker",
         "rebornix.Ruby",
-        "robertohuertasm.vscode-icons",
         "robinbentley.sass-indented",
         "ryu1kn.partial-diff",
         "sdras.vue-vscode-snippets",
@@ -105,7 +103,6 @@
         "wayou.vscode-todo-highlight",
         "whizkydee.material-palenight-theme",
         "wix.vscode-import-cost",
-        "wmaurer.vscode-jumpy",
         "xabikos.JavaScriptSnippets",
         "zhuangtongfa.Material-theme"
     ]
