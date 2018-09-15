@@ -1,6 +1,13 @@
 # Fast Start Changelog
 
-All notable changes to the "faststart" extension pack will be documented in this file.
+All notable changes to the "Fast Start" extension pack will be documented in this file.
+
+## 1.0.0 (2018-09-15)
+
+- Bug Fix
+  - Updated packages to pull in the proper icons extension so that icons work with the example settings.json.
+- Documentation Updates
+  - Adding updates for changes.
 
 ## 0.0.3 (2018-06-13)
 

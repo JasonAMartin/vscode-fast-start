@@ -1,8 +1,8 @@
 {
     "name": "fast-start",
     "displayName": "Fast Start",
-    "description": "A collection of extensions to setup a great VSC environment right way and get coding.",
-    "version": "0.0.3",
+    "description": "A collection of extensions to setup a great VSC environment right away and get coding.",
+    "version": "1.0.0",
     "publisher": "frozenrelic",
     "galleryBanner": {
         "color": "#333F48",
@@ -41,7 +41,7 @@
         "JakeBecker.elixir-ls",
         "Leopotam.csharpfixformat",
         "Orta.vscode-jest",
-        "PKief.material-icon-theme",
+        "robertohuertasm.vscode-icons",
         "Tobiah.unity-tools",
         "Tyriar.sort-lines",
         "Unity.unity-debug",

@@ -18,7 +18,7 @@ Languages I generally code with when using VSC:
 - Elixir
 - C# / Unity3D (game development)
 
-### Some cool things to do with this pack:
+### SOME COOL THINGS YOU CAN DO RIGHT AWAY
 
 - Use the project manager to organize your projects (shift+cmd and start typing "project" for more)
 - Enjoy knowing when your code is getting out of control thanks to vscode-codemetrics.
@@ -29,15 +29,19 @@ Languages I generally code with when using VSC:
 - Get import cost info for your JS files and find heavy imports thanks to import-cost.
 - and more!
 
-## Recommended User Settings
+## RECOMMENDED USER SETTINGS
 
 Here's the user settings I'm currently using. Just open user settings in VSC and paste this JSON into there.
 
-These settings are off a Mac, so if you're on Linux (woot) or Windows, change the editor.fontFamily to something appropriate. And dont' forget to peek at the overall settings because there's a ton you can tweak. These settings will get you running right away.
+These settings are off a Windows machine, so if you're on Linux or Windows, change the editor.fontFamily to something appropriate and you can remove the git.path setting.
+
+And dont' forget to peek at the overall settings because there's a ton you can tweak.
+
+**These settings will get you running right away.**
 
 ```
 {
-    "editor.fontFamily": "Monaco",
+    "editor.fontFamily": "Liberation Mono",
     "editor.fontSize": 14,
     "editor.rulers": [150],
     "editor.tabSize": 2,
@@ -65,6 +69,7 @@ These settings are off a Mac, so if you're on Linux (woot) or Windows, change th
     "gitlens.advanced.messages": {
         "suppressShowKeyBindingsNotice": true
     },
+    "git.path": "C:\\Program Files\\Git\\cmd\\git.exe",
     "gitlens.historyExplorer.enabled": true,
     "auto-close-tag.SublimeText3Mode": true,
     "auto-close-tag.enableAutoCloseSelfClosingTag": true,
@@ -87,11 +92,11 @@ These settings are off a Mac, so if you're on Linux (woot) or Windows, change th
 }
 ```
 
-# Extensions Breakdown
+# EXTENSIONS BREAKDOWN
 
 Here's a list of extensions in this pack along with any relevant notes.
 
-### General Improvements
+### GENERAL IMPROVEMENTS
 
 > [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) :: Colorizes brackets so it's easier to see what section you're in.
 
@@ -123,7 +128,7 @@ Here's a list of extensions in this pack along with any relevant notes.
 
 > [Formatting Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle) :: Quick way to toggle formatting. It puts a one-click toggle in the bottom bar.
 
-> [Material Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) :: Provides icons for VSC.
+> [VS Code Icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) :: Provides awesome icons for VSC.
 
 > [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path) :: Drop menu off file will now have 'Copy Path' that copies over the relative path of the file.
 
